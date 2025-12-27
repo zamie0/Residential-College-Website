@@ -96,4 +96,6 @@ This website can be deployed to:
 
 ## License
 
-Copyright reserved - Residential College K10 UPM
+Copyright (c) 2024 - MUHAMAD HAZAMI BIN JAMIL
+
+All rights reserved.
